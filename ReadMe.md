@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🔭 Currently working on<br>AI-powered full-stack applications with MERN Stack, LangChain & RAG systems<br><br>👯 Looking to collaborate on<br>Full-stack web development, AI/ML projects, Unity game development, and hackathons<br><br>🤝 Looking for help with<br>Microservices architecture, DevOps (Docker/Kubernetes), and AWS cloud optimization<br><br>🌱 Currently learning<br>Advanced AI/ML, vector databases, DevOps tools, and blockchain integration<br><br>💬 Ask me about<br>MERN Stack, AI chatbots with LangChain, Unity game development, or database optimization<br><br>⚡ Fun fact<br>Won Best Gameplay Award at DBIT ACM Teknack 2025 for my Unity game that runs at 60 FPS on mobile! 🎮🏆
+## 🔭 Currently working on<br>AI-powered full-stack applications with MERN Stack, LangChain & RAG systems<br><br>👯 Looking to collaborate on<br>Full-stack web development, AI/ML projects, Unity game development, and hackathons<br><br>🤝 Looking for help with<br>Microservices architecture, DevOps (Docker/Kubernetes), and AWS cloud optimization<br><br>🌱 Currently learning<br>Advanced AI/ML, vector databases, DevOps tools, and blockchain integration<br><br>💬 Ask me about<br>MERN Stack, AI chatbots with LangChain, Unity game development, or database optimization<br>
 
 
 ## 🌐 Socials:
