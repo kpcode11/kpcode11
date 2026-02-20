@@ -1,6 +1,7 @@
-# About Me:
-## Currently working on<br>AI-powered full-stack applications with MERN Stack, LangChain & RAG systems<br><br> Looking to collaborate on<br>Full-stack web development, AI/ML projects, Unity game development, and hackathons<br><br> Looking for help with<br>Microservices architecture, DevOps (Docker/Kubernetes), and AWS cloud optimization<br><br> Currently learning<br>Advanced AI/ML, vector databases, DevOps tools, and blockchain integration<br><br> Ask me about<br>MERN Stack, AI chatbots with LangChain, Unity game development, or database optimization<br>
+![](https://komarev.com/ghpvc/?username=kpcode11&label=Profile%20views&color=0e75b6&style=flat)
 
+# About Me:
+## Full-stack developer building AI-powered, scalable, and performance-optimized applications.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshav-prajapati-759ba8314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Keshav_007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatikeshav497@gmail.com) 
