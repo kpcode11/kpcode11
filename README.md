@@ -286,31 +286,6 @@ Instructed 50+ students in Python and OOP; generated progress reports that impro
 
 ---
 
-## 🟣 Current Focus
-
-```yaml
-Learning:
-  - Advanced System Design & Distributed Architectures
-  - Multi-Agent Orchestration Patterns
-
-Building:
-  - GoCart: expanding seller analytics module
-  - CureOS: real-time alerting for clinical dashboards
-
-Exploring:
-  - Edge Computing for low-latency AI inference
-  - Production-grade RAG evaluation techniques
-
-OpenTo:
-  - SDE (New Grad / Intern) Roles
-  - AI/ML & Applied GenAI Engineering Roles
-  - Open Source Collaboration
-```
-
-<br/>
-
----
-
 ## 🟣 Connect With Me
 
 <div align="center">
